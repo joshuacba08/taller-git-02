@@ -1,5 +1,7 @@
 # Taller de Git
 
-## Resumen
+## Objetivos
 
-Este taller es una introducción a Git y GitHub. Se cubren los conceptos básicos de control de versiones, el uso de Git y la colaboración en GITHUB.
+- Comprender los conceptos básicos de control de versiones.
+- Aprender a usar Git.
+- Aprender a colaborar en GitHub.
